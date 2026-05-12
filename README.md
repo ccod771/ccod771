@@ -266,3 +266,51 @@ Besides technology, I also have a strong interest in **science** and **languages
 </a>
 
 </div>
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🐍 LibertPy
+Python project focused on performance, automation, and backend solutions.
+
+🔗 <a href="https://github.com/ccod771/LibertPy">Access Repository</a>
+
+</td>
+
+<td width="50%">
+
+### 🐶 Adopt Your Pet
+Fullstack pet adoption platform with modern frontend and backend architecture.
+
+🔗 <a href="https://github.com/ccod771/Adopt-Yout-Pet-Project">Access Repository</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚡ NestJS Users API
+REST API built with NestJS, Prisma, JWT authentication, and MySQL.
+
+🔗 <a href="https://github.com/ccod771/api_users_nestJS">Access Repository</a>
+
+</td>
+
+<td width="50%">
+
+### 🎮 Space Pong Game
+Classic arcade-inspired space pong game project.
+
+🔗 <a href="https://github.com/ccod771/Space-Pong-game">Access Repository</a>
+
+</td>
+</tr>
+</table>
+
+</div>
