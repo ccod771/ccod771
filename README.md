@@ -20,7 +20,7 @@ Hello! My name is **Charles Dantas** and I am a **Senior Full Stack Developer**.
 
 I have been studying programming since childhood and deepened my knowledge at the **Federal Institute of Rio Grande do Norte (IFRN)**, studying **Internet Informatics**.
 
-Currently, I am preparing to enter higher education in the IT field. I am passionate about technology, scalable systems, security, and learning new tools and trends in the industry.
+Currently, I am Undergraduate student in Internet Systems Technology at IFRN. I am passionate about technology, scalable systems, security, and learning new tools and trends in the industry.
 
 Besides technology, I also have a strong interest in **science** and **languages**.
 
