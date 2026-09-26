@@ -312,7 +312,7 @@ REST API built with NestJS, Prisma, JWT authentication, and MySQL.
 
 </td>
 
-<td width="50%">
+<td width="100%">
 
 ### 🎮 Space Pong Game
 Classic arcade-inspired space pong game project.
