@@ -275,6 +275,16 @@ Besides technology, I also have a strong interest in **science** and **languages
 <tr>
 <td width="50%">
 
+### ♾️ Acessibilizando Project
+
+Flutter app project focused on creating an application to facilitate accessibility through information.
+
+🔗 <a href="https://github.com/ccod771/Projeto-Acessibilizando">Access Repository</a>
+
+</td>
+
+<td width="50%">
+
 ### 🐍 LibertPy
 Python project focused on performance, automation, and backend solutions.
 
